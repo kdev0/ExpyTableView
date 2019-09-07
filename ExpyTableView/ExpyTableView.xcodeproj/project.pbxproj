@@ -9,9 +9,7 @@
 /* Begin PBXBuildFile section */
 		22EAF6E323245BDA00307A00 /* ExpyTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 22EAF6E123245BDA00307A00 /* ExpyTableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22EAF6F023245BE800307A00 /* ExpyTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EAF6EB23245BE800307A00 /* ExpyTableView.swift */; };
-		22EAF6F123245BE800307A00 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 22EAF6EC23245BE800307A00 /* .gitkeep */; };
 		22EAF6F223245BE800307A00 /* ExpyAbstractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EAF6ED23245BE800307A00 /* ExpyAbstractions.swift */; };
-		22EAF6F323245BE800307A00 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 22EAF6EF23245BE800307A00 /* .gitkeep */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +17,7 @@
 		22EAF6E123245BDA00307A00 /* ExpyTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExpyTableView.h; sourceTree = "<group>"; };
 		22EAF6E223245BDA00307A00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22EAF6EB23245BE800307A00 /* ExpyTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpyTableView.swift; sourceTree = "<group>"; };
-		22EAF6EC23245BE800307A00 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		22EAF6ED23245BE800307A00 /* ExpyAbstractions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpyAbstractions.swift; sourceTree = "<group>"; };
-		22EAF6EF23245BE800307A00 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +71,6 @@
 			isa = PBXGroup;
 			children = (
 				22EAF6EB23245BE800307A00 /* ExpyTableView.swift */,
-				22EAF6EC23245BE800307A00 /* .gitkeep */,
 				22EAF6ED23245BE800307A00 /* ExpyAbstractions.swift */,
 			);
 			path = Classes;
@@ -84,7 +79,6 @@
 		22EAF6EE23245BE800307A00 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				22EAF6EF23245BE800307A00 /* .gitkeep */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -157,8 +151,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22EAF6F123245BE800307A00 /* .gitkeep in Resources */,
-				22EAF6F323245BE800307A00 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
